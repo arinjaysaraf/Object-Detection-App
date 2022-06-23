@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arinjaysaraf/Object-Detection-App/static/css/main.d1b05096.chunk.css",
+    "main.js": "/arinjaysaraf/Object-Detection-App/static/js/main.1e80e5ee.chunk.js",
+    "main.js.map": "/arinjaysaraf/Object-Detection-App/static/js/main.1e80e5ee.chunk.js.map",
+    "runtime-main.js": "/arinjaysaraf/Object-Detection-App/static/js/runtime-main.22cc9a2e.js",
+    "runtime-main.js.map": "/arinjaysaraf/Object-Detection-App/static/js/runtime-main.22cc9a2e.js.map",
+    "static/js/2.711ec297.chunk.js": "/arinjaysaraf/Object-Detection-App/static/js/2.711ec297.chunk.js",
+    "static/js/2.711ec297.chunk.js.map": "/arinjaysaraf/Object-Detection-App/static/js/2.711ec297.chunk.js.map",
+    "index.html": "/arinjaysaraf/Object-Detection-App/index.html",
+    "precache-manifest.e8561be200d13e5a4897e55843672ffb.js": "/arinjaysaraf/Object-Detection-App/precache-manifest.e8561be200d13e5a4897e55843672ffb.js",
+    "service-worker.js": "/arinjaysaraf/Object-Detection-App/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/arinjaysaraf/Object-Detection-App/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.711ec297.chunk.js.LICENSE.txt": "/arinjaysaraf/Object-Detection-App/static/js/2.711ec297.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22cc9a2e.js",
+    "static/js/2.711ec297.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.1e80e5ee.chunk.js"
+  ]
+}

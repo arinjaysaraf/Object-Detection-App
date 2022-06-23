@@ -2,7 +2,7 @@
   "name": "handpose",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://arinjay_s.github.io",
+  "homepage": "https://github.com/arinjaysaraf/Object-Detection-App",
   "dependencies": {
     "@tensorflow-models/coco-ssd": "^2.1.0",
     "@tensorflow/tfjs": "^2.4.0",
