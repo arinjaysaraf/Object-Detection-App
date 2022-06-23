@@ -6,14 +6,14 @@ import Webcam from "react-webcam";
 import "./App.css";
 import { drawRect } from "./utilities";
 import { tf } from "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs";
-import { cocoSsd } from "https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd";
+import * as cocossd from "https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd";
 
 function App() {
   const webcamRef = useRef(null);
   const canvasRef = useRef(null);
 
   const runCoco = async () => {
-    const net = await cocoSsd.load();
+    const net = await cocossd.load();
     
     setInterval(() => {
       detect(net);
