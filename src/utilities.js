@@ -14,5 +14,4 @@ export const drawRect = (detections, ctx) => {
         ctx.rect(x, y, width, height);
         ctx.stroke();
     });
-
 }

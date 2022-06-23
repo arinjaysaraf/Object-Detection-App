@@ -5,6 +5,8 @@ import * as cocossd from "@tensorflow-models/coco-ssd";
 import Webcam from "react-webcam";
 import "./App.css";
 import { drawRect } from "./utilities";
+import "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs";
+import "https://cdn.jsdelivr.net/npm/@tensorflow-models/coco-ssd";
 
 function App() {
   const webcamRef = useRef(null);
