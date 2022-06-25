@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/arinjaysaraf/Object-Detection-App/precache-manifest.d26114a4867ba51c95b176eb7f5d4cbc.js"
+  "/arinjaysaraf/Object-Detection-App/precache-manifest.d128cfc0c32a2ad4933cdde0e1abec83.js"
 );
 
 self.addEventListener('message', (event) => {
